@@ -9,3 +9,5 @@ git push origin master;
 
 ##
 ##
+git add <filename>;
+git commit -m 'kdfksdkfkdfs';
